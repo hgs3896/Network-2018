@@ -4,4 +4,4 @@ compiler:
 os:
 - linux
 script:
-- make && make test && make clean
+- make && make test
