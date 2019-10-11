@@ -11,3 +11,5 @@ It includes [some socket program](/src) that I've made and [some test program](/
  To start the client to send a file to the server, execute [``client/client filepath``](/src/client.c).
 
  To test the program with simplicity, type ``"make test"``.
+
+![Travis CI status](https://travis-ci.org/hgs3896/Network-2018.svg?branch=master)
